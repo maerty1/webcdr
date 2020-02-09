@@ -12,6 +12,7 @@
     nvm install v8.16.2
     
 1.2 Install GIT
+
     ```
     yum install git
     ```
