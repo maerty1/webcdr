@@ -11,6 +11,10 @@
 
     nvm install v8.16.2
     
+1.2 Install GIT
+    ```
+    yum install git
+    ```
    
 2. Install global npm packages used to build webcdr:
    ```
