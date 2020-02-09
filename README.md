@@ -2,7 +2,7 @@
 
 # CDR web interface for Asterisk
 
-![](https://cloud.githubusercontent.com/assets/1784421/17270493/24dda150-5664-11e6-8e4e-a8479fdf6307.png)
+![](https://raw.githubusercontent.com/maerty1/photo_for_repo/master/Снимок%20экрана%202020-02-09%20в%2010.58.13.png)
 
 - View CDRs, filter by date and time, telephone number, direction and status
 - Export to xlsx
@@ -10,6 +10,7 @@
 - Download call recordings by one or in bulk (zip)
 - Create users with access limited to specific phone numbers
 - Authenticate users against Active Directory
+- Add cnum field and search
 
 ## Requirements
 
