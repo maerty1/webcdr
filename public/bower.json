@@ -1,0 +1,19 @@
+{
+  "name": "webcdr",
+  "version": "0.0.0",
+  "authors": [
+    "Ivan Poddubny <ivan.poddubny@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "audiojs": "*"
+  }
+}
