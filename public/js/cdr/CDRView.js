@@ -77,11 +77,6 @@ var columns = [{
   editable: false,
   cell: 'string'
 }, {
-  name: 'dstchannel',
-  label: $$('Dstchannel'),
-  editable: false,
-  cell: 'string'
-}, {
   name: 'disposition',
   label: $$('Status'),
   editable: false,
