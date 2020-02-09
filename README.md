@@ -1,4 +1,4 @@
-# This fork is for use with FreePBX (Tested on the freepbx Distro)
+# This fork is for use with FreePBX
 
 # CDR web interface for Asterisk
 
