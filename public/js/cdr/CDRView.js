@@ -77,6 +77,11 @@ var columns = [{
   editable: false,
   cell: 'string'
 }, {
+  name: 'did',
+  label: $$('DID'),
+  editable: false,
+  cell: 'string'
+}, {
   name: 'disposition',
   label: $$('Status'),
   editable: false,
