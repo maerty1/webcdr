@@ -10,7 +10,7 @@
 - Download call recordings by one or in bulk (zip)
 - Create users with access limited to specific phone numbers
 - Authenticate users against Active Directory
-- Add cnum field and search
+- Add cnum,did field and search
 
 ## Requirements
 
